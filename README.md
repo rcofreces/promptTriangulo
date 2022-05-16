@@ -1,0 +1,2 @@
+# promptTriangulo
+Created with CodeSandbox
